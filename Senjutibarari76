@@ -1,0 +1,155 @@
+
+<!doctype html>
+<html lang="en"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Your Name | Portfolio</title> 
+  <link rel="stylesheet" href="styles.css"> 
+ </head> 
+ <body> 
+  <header> 
+   <h1>Senjuti Barari</h1> 
+   <nav> 
+    <ul> 
+     <title>Background Image</title> 
+     <style>
+        body {
+            background-image: url('https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/8103728/486764_941007.png');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+    </style> 
+     <li><a href="#home">Home</a></li> 
+     <li><a href="#about">About Me</a></li> 
+     <li><a href="#education">Educational Background</a></li> 
+     <li><a href="#experience">Experience</a></li> 
+     <li><a href="#achievements">Awards and Achievements</a></li> 
+     <li><a href="#projects">Projects</a></li> 
+     <li><a href="#membership">Membership</a></li> 
+     <li><a href="#research">Research Thrust Area</a></li> 
+     <li><a href="#events">Events</a></li> 
+     <li><a href="#courses">Courses Completed</a></li> 
+     <li><a href="#contact">Contact</a></li> 
+    </ul> 
+   </nav> 
+  </header> 
+  <main> 
+   <section id="home"> 
+    <h2>Welcome</h2> 
+    <p>Thank you for visiting my professional website.</p> 
+   </section> 
+   <section id="about"> 
+    <h2>About Me</h2> 
+    <p>Having completed my primary education at Carmel Primary School, Deshapriya Park, and my higher secondary studies at Carmel High School, Gariahat, I’ve always been drawn to the world of creativity and technology. As an artsy individual, I find immense joy in sketching and exploring the realm of visual arts. However, my passion extends beyond traditional art forms. I’m equally fascinated by the digital world and aspire to pursue a career in cybersecurity, graphic design, or ethical hacking.</p> 
+   </section> 
+   <section id="education"> 
+    <h2>Educational Background</h2> 
+    <ul> 
+     <li>UEM Kolkata, Kolkata, West Bengal - Bachelor's Degree in BTECH ECE (Expected Graduation: 2028)</li> 
+     <img src="https://mywbut.com/logo_pic/b874cb07e96925c1d108a406d67e7688.jpeg" alt="Description of image 1" width="300"> 
+     <li>Carmel High School, Gariahat, Kolkata - Higher Secondary Certificate (Year of Passing: 2024)</li> 
+     <img src="https://chskolkata.in/chs/asset/image/contact-img2.jpg" alt="Description of image 1" width="300"> 
+     <li>Carmel Primary School, Deshapriya Park, Kolkata - Primary Education (Year of Passing: 2014)</li> 
+     <img src="https://carmelprimaryschool.edu.in/uploads/album/54609daafe289aae7811f91ce624d238.jpeg" alt="Description of image 1" width="300"> 
+    </ul> 
+   </section> 
+   <section id="experience"> 
+    <h2>Experience</h2> 
+    <p>I do not have any experience yet, except for the ones I am participating at my University.</p> 
+   </section> 
+   <section id="achievements"> 
+    <h2>Awards and Achievements</h2> 
+    <ul> 
+     <li>Participation certificate for Rabindra Sarane</li> 
+     <li>Participation certificate for Smart Maker's Festival</li> 
+    </ul> 
+   </section> 
+   <section id="projects"> 
+    <h2>Projects</h2> 
+    <p>Not any yet.</p> 
+   </section> 
+   <section id="membership"> 
+    <h2>Membership</h2> 
+    <p>Not any yet.</p> 
+   </section> 
+   <section id="research"> 
+    <h2>Research Thrust Area</h2> 
+    <p>AIML and Robotics</p> 
+   </section> 
+   <section id="events"> 
+    <h2>List of Events (Organized/Attended)</h2> 
+    <ul> 
+     <li>Rabindra Sarane (2024)</li> 
+     <li>Smart Maker's Festival (2024)</li> 
+     <li>Poster Making Competition</li> 
+    </ul> 
+   </section> 
+   <section id="courses"> 
+    <h2>Courses Completed</h2> 
+    <p>Actively doing NPTEL, LinkedIn Learning.</p> 
+   </section> 
+   <section id="contact"> 
+    <h2>Contact Address</h2> 
+    <p>Phone: 6291723727</p> 
+    <p>Email: <a href="mailto:senjutibarati.10c.02@gmail.com">senjutibarati.10c.02@gmail.com</a></p> 
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/senjuti-barari-18009531a?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app" target="_blank">Your LinkedIn Profile</a></p> 
+    <link> 
+   </section> 
+  </main> 
+  <footer> 
+   <p>© 2024</p> 
+  </footer> 
+ </body>
+</html>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    background: #fff;
+    margin: 10px 0;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
